@@ -1,5 +1,6 @@
 {
-    "webhookUrl" : "webhookUrl",
-    "avatar_url" : "avatar_url",
-    "username" : "username"
+    "webhookUrl" : "webhookUrl here",
+    "avatar_url" : "avatar_url here",
+    "username" : "username here",
+    "close_rl" : "end_process"
 }
